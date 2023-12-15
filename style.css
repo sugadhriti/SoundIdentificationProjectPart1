@@ -1,0 +1,50 @@
+#heading
+{
+    font-size: 28px;
+    font-style: bold;
+    font-family: 'Times New Roman';
+    font-weight: 100;
+}
+
+#body_background
+{
+    background-color: rgb(210, 193, 225);
+}
+
+#Note
+{
+    font-size: medium;
+    font-family: 'Times New Roman';
+    font-weight: bold;
+    font-weight: 400;
+    color: rgb(127, 27, 181);
+}
+
+.copy_right_footer
+{
+    text-align: center;
+}
+
+
+#result_label
+{
+    font-family:'Times New Roman';
+}
+
+#button
+{
+    background-color: rgb(156, 126, 220);
+    color: rgb(118, 62, 208);
+}
+
+#image
+{
+    height: 150px;
+    width: 150px;
+}
+
+#Developed
+{
+    font-family: 'Times New Roman';
+    font-size: medium;
+}
